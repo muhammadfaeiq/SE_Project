@@ -1,5 +1,3 @@
-Based on the project requirements and the `MMS.slnx` solution structure provided, here is a professional `README.md` file designed to meet your 3rd-semester evaluation criteria.
-
 # Mart Management System (MMS)
 
 ## 📌 Project Overview
@@ -124,4 +122,7 @@ Press `F5` to start the application. Use the **Login Interface** to access role-
 
 ## 📝 Contributors
 
-* **[Your Name]** - 3rd Semester CS Undergraduate
+* **[Haseeb Ahmad]** - Group Lead
+* **[Maira Waheed]**
+* **[Iqra Abdul Malik]**
+* **[Muhammad Faeiq]**
